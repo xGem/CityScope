@@ -24,7 +24,7 @@ También sugiere un enfoque amplio y dinámico, capturando la esencia de éste p
 - Elegimos éste nombre por ser lo suficientemente genérico, para que no se limite solo a Buenos Aires. Podría expandirse y ser replicable en otras ciudades o proyectos urbanos.
 - Al proponer un HUB de innovación, es ideal para implementar un enfoque basado en tecnología y datos.
 
-3. **Documentación y Participación:*
+3. **Documentación y Participación:**
 - Como un repositorio en GitHub, CityScope da la impresión de un recurso abierto donde se recopilan, analizan y proponen soluciones.
 - Alineado con la idea de ser una wiki, invita a la colaboración y a construir un repositorio vivo de ideas y metodologías.
 
