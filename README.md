@@ -14,6 +14,7 @@ El nombre evoca una herramienta o lente a través de la cual se puede observar y
 - Ambiental
 - Tecnológica
 - Urbana, entre otras.
+
 También sugiere un enfoque amplio y dinámico, capturando la esencia de éste proyecto que busca explorar problemas y soluciones de manera participativa e innovadora.
 
 1. **Exploración Multidimensional:**
