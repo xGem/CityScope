@@ -26,7 +26,7 @@ git checkout -b mi-contribucion
 ```
 
 ## Sube tus cambios y abre un Pull Request
-para contribuciones, sugerencias o reportes de errores, por favor abre un [issue](https://github.com/%5Btu-usuario%5D/CityScope/issues)
+para contribuciones, sugerencias o reportes de errores, por favor abre un [issue](https://github.com/xGem/CityScope/issues)
 
 ## 🔍 Tecnologías Utilizadas
 - **Lenguajes:** Python, JavaScript, Markdown
