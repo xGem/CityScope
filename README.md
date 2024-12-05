@@ -61,6 +61,6 @@ para contribuciones, sugerencias o reportes de errores, por favor abre un [issue
 Este proyecto está licenciado bajo la [MIT License](https://chatgpt.com/c/LICENSE)
 
 ## ✉️ Contacto
-Si tienes preguntas o quieres colaborar, por favor escribe a: [sergio@cityscope.org](mailto:sergio.rod@gmail.com)
+Si tienes preguntas o quieres colaborar, por favor escribe a: [contacto](mailto:sergio.rod@gmail.com)
 
 ¡Gracias por ser parte de la innovación urbana con CityScope! 🎉
