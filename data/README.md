@@ -15,3 +15,7 @@ Este directorio contiene datasets y enlaces a fuentes de datos relevantes para e
 Si deseas agregar un dataset, por favor:
 1. Describe su propósito y fuente.
 2. Asegúrate de que cumpla con los estándares de uso ético y legal.
+
+## Fuentes externas
+- [APIs de Buenos Aires Data](https://buenosaires.gob.ar/apis)
+- [Datasets de BA Data](https://data.buenosaires.gob.ar/organization/)
